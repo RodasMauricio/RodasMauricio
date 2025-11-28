@@ -2,7 +2,7 @@
 
 ### Sobre mí
 
-Soy desarrollador C# .NET + SQL Server y actualmente estudiante de Ciencias de la Computación en la Universidad de Buenos Aires.
+Soy desarrollador C# .NET + SQL Server y estudiante de Ciencias de la Computación en la Universidad de Buenos Aires.
 De manera freelance, desarrollo aplicaciones de escritorio y actualmente me encuentro ampliando mi conocimiento para el desarrollo multiplataforma y profundizando mi dominio en SQL Server.
 
 Mi objetivo es seguir aprendiendo y crecer profesionalmente, brindando soluciones tecnológicas eficientes y de alta calidad.
