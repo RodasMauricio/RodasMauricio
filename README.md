@@ -2,10 +2,8 @@
 
 ### Sobre mí
 
-Soy desarrollador C# .NET + SQL Server y estudiante de la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional.
-De manera freelance, desarrollo aplicaciones de escritorio y actualmente me encuentro ampliando mi conocimiento para el desarrollo Web y profundizando mi dominio en SQL Server.
-
-Mi objetivo es seguir aprendiendo y crecer profesionalmente, brindando soluciones tecnológicas eficientes y de alta calidad.
+Desarrollador .NET | C# | ASP.NET | SQL
+Experiencia en el desarrollo de aplicaciones de escritorio y aplicaciones web utilizando tecnologías como Windows  Forms, WPF,  ASP.NET Web Forms, ASP.NET Core MVC y persistencia en datos mediante SQL Server.
 
 ---
 
