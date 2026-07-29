@@ -3,6 +3,7 @@
 ### Sobre mí
 
 Desarrollador .NET | C# | ASP.NET | SQL
+
 Experiencia en el desarrollo de aplicaciones de escritorio y aplicaciones web utilizando tecnologías como Windows  Forms, WPF,  ASP.NET Web Forms, ASP.NET Core MVC y persistencia en datos mediante SQL Server.
 
 ---
